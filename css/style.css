@@ -40,10 +40,16 @@ h2 {
 	text-align: center;
 }
 
-#myNavbar ul li a {
+#My-Navbar ul li a {
 	color: #61122F;
 }
 
 .navbar-brand {
 font-size: 30px;	
 }
+
+#footer {
+	clear:both;
+	position:relative;
+}
+
